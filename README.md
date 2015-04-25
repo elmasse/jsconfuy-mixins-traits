@@ -22,4 +22,4 @@ Under `cocktail-traits` folder you will find a few examples for the Trait Demo.
 
 ### Slides
 
-The slides are published in (SlideShare)[http://www.slideshare.net/MaximilianoFierro1/inheritancemixinstraits]
+The slides are published in [SlideShare](http://www.slideshare.net/MaximilianoFierro1/inheritancemixinstraits)
